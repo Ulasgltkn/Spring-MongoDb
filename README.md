@@ -1,4 +1,4 @@
-<span style="color:blue; font-size:20px;"> Spring-MongoDb
+# Spring-MongoDb
 I explain to connection Spring with MongoDb
 
 <span style="color:blue; font-size:18px;">Gerekli olan Dependencyler
@@ -20,8 +20,8 @@ I explain to connection Spring with MongoDb
 <span style="color:blue; font-size:18px;">HTTP isteklerinin cevaplanacağı controller ı da ekledikten sonra kullanacağımız veri tabanı bağlantımız kalıyor.
 
 
-spring.data.mongodb.host=localhost
-spring.data.mongodb.port=27017
-spring.data.mongodb.database=BookStore
+<span style="color:blue; font-size:18px;">spring.data.mongodb.host=localhost
+<span style="color:blue; font-size:18px;">spring.data.mongodb.port=27017
+<span style="color:blue; font-size:18px;">spring.data.mongodb.database=BookStore
 
 <span style="color:blue; font-size:18px;">Mongo Db kullanabilmek için Mongo Db Server , verileri görebilmek için grafiksel arayüz sağlayan Mongo Compass uygulamasını kurmamız gerekiyor.
